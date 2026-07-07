@@ -3,7 +3,7 @@
 A Machine Learning web application that predicts software developer salaries based on professional background, education level, and years of experience.
 
 🌐 **Live Demo:**  
-https://developer-salary-predictor-project.streamlit.app/
+[https://developer-salary-predictor-project.streamlit.app/](https://developer-salary-predictor-project.streamlit.app/)
 
 
 ---
