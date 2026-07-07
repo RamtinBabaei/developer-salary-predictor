@@ -2,6 +2,11 @@
 Predict software developer salaries in 2022 using Machine Learning, XGBoost, and Streamlit.
 # 💰 Developer Salary Predictor
 
+## 🚀 Live Demo
+
+https://your-app-link.streamlit.app
+
+
 A Machine Learning web application that predicts software developer salaries based on:
 
 - 🌍 Country
