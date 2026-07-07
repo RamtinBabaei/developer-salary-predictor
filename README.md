@@ -39,7 +39,7 @@ The application is built using **Python**, **Scikit-Learn**, **XGBoost**, and **
 developer-salary-predictor/
 │
 ├── app.py
-├── style.css
+├── 
 ├── xgbpipe.joblib
 ├── requirements.txt
 └── README.md
