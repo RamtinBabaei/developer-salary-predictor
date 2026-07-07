@@ -94,10 +94,12 @@ streamlit run app.py
 <img width="1901" height="928" alt="image" src="https://github.com/user-attachments/assets/d3ce06a2-e313-4834-9a27-7725cdf72526" />
 
 🔮 Future Improvements
+
 Add model explainability using SHAP
 Improve feature engineering
 Add prediction confidence intervals
 Create API version using FastAPI
+
 
 👨‍💻 Author
 Ramtin Babaei
